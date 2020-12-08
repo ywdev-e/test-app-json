@@ -2,7 +2,7 @@
 	"tasklist": [{
 		"id": "task00001",
 		"taskIsComplete": false,
-		"taskTitle": "Company Web Design",
+		"taskTitle": "Web Company Design",
 		"taskDesc": "Design the company websites",
 		"taskCategory": "Web Design",
 		"taskProjectCode": "ESB-R&D",
